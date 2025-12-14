@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "홀씨",
+  "base_artist": "아이유",
+  "createdAt": "2025-12-14T16:02:16.900417Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Holssi (홀씨)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/01_Holssi_(홀씨)_IU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Holssi",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_Holssi_IU.txt"
+    }
+  ]
+}
